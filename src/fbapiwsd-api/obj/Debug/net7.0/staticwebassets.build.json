@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MqEUw0xqyu2G9gMeC+99kgyNTwoTI/WSHWnNH4fDrNI=",
+  "Source": "fbapiwsd-api",
+  "BasePath": "_content/fbapiwsd-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
