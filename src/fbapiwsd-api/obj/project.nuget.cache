@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p+eeTM8t95ZVsonKNKu6TRTpvAFuDWOHNMY9rnGyQN8DNx7MadCYgqTqR2V7xHBf6qmKI71JpRIz6YtV7ht2EA==",
+  "dgSpecHash": "yuCMagJ08qE=",
   "success": true,
   "projectFilePath": "/home/niltonctjr/projects/fbapiwsd/src/fbapiwsd-api/fbapiwsd-api.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,10 @@
     "/home/niltonctjr/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "/home/niltonctjr/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "/home/niltonctjr/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/home/niltonctjr/.nuget/packages/thisassembly.constants/1.4.1/thisassembly.constants.1.4.1.nupkg.sha512"
+    "/home/niltonctjr/.nuget/packages/thisassembly.constants/1.4.1/thisassembly.constants.1.4.1.nupkg.sha512",
+    "/home/niltonctjr/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/niltonctjr/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/niltonctjr/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

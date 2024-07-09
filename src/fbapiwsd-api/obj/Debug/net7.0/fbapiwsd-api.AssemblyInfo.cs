@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("fbapiwsd-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+main.5baf2cf")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.2+main.9893c05.9893c056e25747b22e83ce6df3501223e149cc0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("fbapiwsd-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fbapiwsd-api")]
-[assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.0.2.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
